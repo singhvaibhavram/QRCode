@@ -1,0 +1,14 @@
+{
+  "name": "qrgeneration",
+  "version": "1.0.0",
+  "description": "Application to generate QR Codes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramnarayan Singh",
+  "license": "ISC",
+  "dependencies": {
+    "qr-image": "^3.2.0"
+  }
+}
